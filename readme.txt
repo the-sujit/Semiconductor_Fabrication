@@ -1,0 +1,1 @@
+I was part of a team of 5 students who successfully fabricated P-N junction diode and a Bi-morph microactuater on a P-type silicon wafer. In this folder I have attached the final presentation which demonstrated the timeline and results of the project.
